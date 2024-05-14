@@ -1,6 +1,7 @@
 ## Weather Data App
 ## Description
 This is a responsive application built using React, designed to display weather data based on geographical coordinates (latitude and longitude). Users can input coordinates manually, retrieve their current location, or select a point on the world map.
+When user makes an action a correct message is displayed
 
 ## Main Files in `src` :
 
